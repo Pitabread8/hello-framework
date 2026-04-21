@@ -2,6 +2,12 @@
 title: Example report
 ---
 
+<style>
+    .highlight {
+        color: gold;
+    }
+</style>
+
 # A brief history of space exploration
 
 This report is a brief overview of the history and current state of rocket launches and space exploration.
@@ -42,7 +48,7 @@ NASA’s Viking program successfully launched two spacecraft, Viking 1 and Vikin
 
 ### Space Shuttle Columbia (1981)
 
-The first orbital space shuttle mission, STS-1, launched the Space Shuttle Columbia on April 12, 1981. The shuttle program revolutionized space travel, providing a reusable spacecraft for a variety of missions.
+The first orbital space shuttle mission, STS-1, launched the Space Shuttle Columbia on April 12, 1981. The shuttle program <span class="highlight">revolutionized space travel</span>, providing a reusable spacecraft for a variety of missions.
 
 ### Hubble Space Telescope (1990)
 
@@ -54,7 +60,7 @@ The ISS, a collaborative effort involving multiple space agencies, began constru
 
 ## Commercial spaceflight
 
-After the Space Shuttle program, a new era emerged with a shift towards commercial spaceflight.
+After the Space Shuttle program, <span class="highlight">a new era emerged with a shift towards commercial spaceflight</span>.
 
 Private companies like Blue Origin, founded by Jeff Bezos in 2000, and SpaceX, founded by Elon Musk in 2002, entered the scene. These companies focused on developing reusable rocket technologies, significantly reducing launch costs.
 

@@ -2,6 +2,16 @@
 toc: false
 ---
 
+<style>
+	h2 {
+		font-size: 3rem;
+	}
+
+	h3 {
+		font-size: 2rem;
+	}
+</style>
+
 <div class="hero">
   <h1>Hello Framework</h1>
   <h2>Welcome to your new app! Edit&nbsp;<code style="font-size: 90%;">src/index.md</code> to change this page.</h2>
